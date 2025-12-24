@@ -1,0 +1,15 @@
+SÄKERHETSRAPPORT – LINUX
+Datum: 2025-12-18
+-----------------------------------
+2025-12-18 13:58:50 - Jag startar säkerhetskontrollen.
+
+2025-12-18 13:58:50 - 1. Jag analyserar systemloggar efter misslyckade inloggningar.
+2025-12-18 13:58:50 - Loggfilen /var/log/auth.log hittades inte.
+
+2025-12-18 13:58:50 - 2. Jag kontrollerar aktiv nätverkstrafik.
+2025-12-18 13:58:50 - Aktiva nätverksanslutningar har listats.
+
+2025-12-18 13:58:50 - 3. Jag kontrollerar om det finns tillgängliga uppdateringar.
+2025-12-18 13:58:50 - Systemet är uppdaterat.
+
+2025-12-18 13:58:50 - Säkerhetskontrollen är slutförd.
