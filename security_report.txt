@@ -1,0 +1,4 @@
+SÄKERHETSRAPPORT
+Datum: 2026-01-11 19:16:52.228866
+----------------------------------------
+- API-rapporterad risknivå: Medium

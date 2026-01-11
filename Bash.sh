@@ -1,9 +1,7 @@
 #!/bin/bash
 
-#  Jag använder detta skript för att genomföra en enkel säkerhetskontroll i en Linux-miljö.
 #  Syftet är att analysera loggar, kontrollera nätverkstrafik och se om systemet är uppdaterat.
 
-# Jag genomför en enkel säkerhetskontroll av systemet
 # Resultatet sparas i en säkerhetsrapport
 
 LOGGFIL="sakerhetsrapport_linux.txt"
